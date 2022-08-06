@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in landing a job as a Frontend Developer.
 - 🌱 I'm currently mastering NextJS and all of its features.
-- 📫 How to reach me: 
+- 📫 I enjoy playing trumpet and listening to music.
 ### Connect with me
 - [Linkedin](https://www.linkedin.com/in/jacob-rodriguez-9112741b7/)
 - [Email](jacobrdz47@gmail.com)
