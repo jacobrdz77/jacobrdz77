@@ -6,7 +6,8 @@
 - 📫 I enjoy playing trumpet and listening to music.
 ## Links 
 - ### [Portfolio](https://jacob-rodriguez.vercel.app/)
-- ### [Resume.pdf](https://github.com/jacobrdz77/jacobrdz77/files/9312513/Resume.pdf)
+- ### [Resume.pdf](https://github.com/jacobrdz77/jacobrdz77/files/9348585/Resume.pdf)
+
 
 
 
