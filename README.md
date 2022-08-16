@@ -2,7 +2,7 @@
 ## a Software Developer
 
 - 👀 I’m interested in landing a job as a Frontend Developer.
-- 🌱 I'm currently mastering NextJS and all of its features.
+- 🌱 I'm currently mastering NextJS by creating a full stack application.
 - 📫 I enjoy playing trumpet and listening to music.
 ## Links 
 - ### [Portfolio](https://jacob-rodriguez.vercel.app/)
