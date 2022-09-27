@@ -1,5 +1,5 @@
 # Hello, I'm Jacob 
-## a Software Developer
+## a Self-taught Front-end Developer
 
 - 👀 I’m interested in landing a job as a Frontend Developer.
 - 🌱 I'm currently mastering NextJS by creating a full stack application.
