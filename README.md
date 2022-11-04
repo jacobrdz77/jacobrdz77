@@ -1,4 +1,4 @@
-# Hello, I'm Jacob 
+# Hello I'm Jacob, 
 ## a Self-taught Front-end Developer
 
 - 👀 I’m interested in landing a job as a Frontend Developer.
