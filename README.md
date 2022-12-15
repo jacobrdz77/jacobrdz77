@@ -2,7 +2,7 @@
 ## a Self-taught Web Developer
 
 - 👀 I’m interested in landing a job as a Frontend Developer.
-- 🌱 I'm currently mastering NextJS by creating a full stack application.
+- 🌱 I'm currently building selfwork, a full stack application using Nextjs.
 - 📫 I enjoy playing trumpet and listening to music.
 
 ## Technologies
