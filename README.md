@@ -1,7 +1,7 @@
 # Hello I'm Jacob, 
 ### a Full Stack Web Developer
 
-- 👀 I’m interested in landing a job as a Frontend Developer.
+- 👀 I’m interested in landing a position as a Frontend Developer.
 - 🌱 I'm currently building selfwork, a full stack application using Nextjs and TypeScript.
 - 😊 I enjoy listening to music and reading books.
 
