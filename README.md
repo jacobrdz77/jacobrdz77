@@ -1,7 +1,6 @@
 # Hello I'm Jacob, 
 ### a Web Developer
 - 🌱 I'm currently building selfwork, a full stack application using React, Nextjs, and TypeScript.
-- 👀 I’m interested in landing a position/internship as a Frontend Developer.
 - 😊 I enjoy listening to music and watching anime.
 
 <!-- ## Contact
