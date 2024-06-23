@@ -1,5 +1,4 @@
-# Hello I'm Jacob, 
-### a Web Developer
+# Hey I'm Jacob, 
 - 🌱 I'm currently building selfwork, a full stack application using React, Nextjs, and TypeScript.
 - 😊 I enjoy listening to music and watching anime.
 
