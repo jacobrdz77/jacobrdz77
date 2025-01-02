@@ -1,6 +1,5 @@
 # Hey I'm Jacob, 
 - 🌱 I'm currently building selfwork, a full stack application using React, Nextjs, and TypeScript.
-- 😊 I enjoy listening to music and watching anime.
 
 <!-- ## Contact
 <div><a href="https://www.linkedin.com/in/jacob-rodriguez-9112741b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div> -->
